@@ -57,6 +57,7 @@ public class MainActivity extends AppCompatActivity {
                 mylist, R.layout.mylistview, new String[] {"city", "code","img"},
                 new int[] {R.id.textView, R.id.textView2,R.id.imageView});
         lv.setAdapter(adapter);
+        //PM
 
 
     }
